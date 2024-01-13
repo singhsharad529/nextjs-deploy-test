@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
-        <h1>Welcome to my app</h1>
+        <h1>Welcome back in my app</h1>
       </div>
     </>
   );
