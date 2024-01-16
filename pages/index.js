@@ -22,6 +22,7 @@ export default function Home() {
         </Link>
         <p>Link to heaven</p>
         <p>Link to heaven 1</p>
+        <p>Link to heaven 3</p>
       </div>
     </>
   );
