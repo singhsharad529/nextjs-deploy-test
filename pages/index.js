@@ -21,6 +21,7 @@ export default function Home() {
           <p>www.google.com</p>
         </Link>
         <p>Link to heaven</p>
+        <p>Link to heaven 1</p>
       </div>
     </>
   );
