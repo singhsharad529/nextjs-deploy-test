@@ -20,6 +20,7 @@ export default function Home() {
         <Link href={"https://www.google.com"}>
           <p>www.google.com</p>
         </Link>
+        <p>Link to heaven</p>
       </div>
     </>
   );
